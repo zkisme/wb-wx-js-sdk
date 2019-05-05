@@ -1,6 +1,6 @@
 {
   "name": "wb-wx-js-sdk",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "微信 jssdk npm包",
   "main": "index.js",
   "scripts": {
