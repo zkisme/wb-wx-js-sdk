@@ -1,0 +1,19 @@
+{
+  "name": "wb-wx-js-sdk",
+  "version": "1.5.0",
+  "description": "微信 jssdk npm包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkisme/wb-wx-js-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zkisme/wb-wx-js-sdk/issues"
+  },
+  "homepage": "https://github.com/zkisme/wb-wx-js-sdk#readme"
+}
